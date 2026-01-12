@@ -64,5 +64,3 @@ Tag presentation structure
 Sequence and hierarchy of financial statement items
 
 
-Technology Stack
-ComponentTechnologyGraph DatabaseNeo4j Aura (Free Tier: 200K nodes, 400K relationships)Big Data ProcessingPySparkGraph AnalyticsNeo4j Graph Data Science LibraryWeb ScrapingBeautifulSoup, Requests, RegexMachine LearningScikit-learn (K-means, Anomaly Detection)Query InterfaceGraphRAGVisualizationMatplotlib, yfiles_jupyter_graphs_for_neo4jDevelopment EnvironmentGoogle Colab
